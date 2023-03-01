@@ -17,12 +17,15 @@ El proyecto consta de los siguientes archivos y carpetas:
 - [Enlace a Streamlit](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/)
 
 Para utilizar el modelo entrenado, se debe entrar al siguiente [enlace](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/) en el cual se
-realizó el despliegue del modelo, en esta página se podrán ingresar los datos de entrada para hacer una predicción con el modelo.
+realizó el despliegue del modelo, en esta página se podrán ingresar los datos de entrada para hacer una predicción con el modelo. A continuación, una muestra de como luce la página del enlace:
 
 ![Imagen interfaz streamlit](https://github.com/JoseCChaparro/housing-data-science/blob/main/images/Captura%20de%20pantalla%202023-03-01%20103909.png)
 
+Para hacer la predicción solo es necesario ir hasta el final de la página después de haber ingresado los datos y dar click en el botón de Predecir como sigue:
 
 El cuaderno contiene instrucciones detalladas sobre cómo cargar los datos, entrenar el modelo y evaluar su rendimiento.
+
+
 
 El modelo entrenado está almacenado en el archivo forest_reg.pkl, que puede ser cargado y utilizado para hacer predicciones de precios de casas en California.
 
