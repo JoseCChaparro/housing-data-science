@@ -25,7 +25,7 @@ Para hacer la predicción solo es necesario ir hasta el final de la página desp
 
 El cuaderno contiene instrucciones detalladas sobre cómo cargar los datos, entrenar el modelo y evaluar su rendimiento.
 
-
+- [Enlace a Streamlit](https://github.com/JoseCChaparro/housing-data-science/blob/main/images/Captura%20de%20pantalla%202023-03-01%20104620.png)
 
 El modelo entrenado está almacenado en el archivo forest_reg.pkl, que puede ser cargado y utilizado para hacer predicciones de precios de casas en California.
 
