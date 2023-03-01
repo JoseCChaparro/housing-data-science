@@ -19,6 +19,7 @@ El proyecto consta de los siguientes archivos y carpetas:
 Para utilizar el modelo entrenado, se debe entrar al siguiente [enlace](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/) en el cual se
 realizó el despliegue del modelo, en esta página se podrán ingresar los datos de entrada para hacer una predicción con el modelo.
 
+![Imagen interfaz streamlit](https://github.com/JoseCChaparro/housing-data-science/blob/main/images/Captura%20de%20pantalla%202023-03-01%20103909.png)
 
 
 El cuaderno contiene instrucciones detalladas sobre cómo cargar los datos, entrenar el modelo y evaluar su rendimiento.
