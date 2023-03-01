@@ -9,15 +9,15 @@ Este repositorio contiene los archivos necesarios para entrenar y utilizar un mo
 
 El proyecto consta de los siguientes archivos y carpetas:
 
-- End_to_End.ipynb: un cuaderno de Jupyter que contiene el código para la exploración de datos, entrenamiento del modelo y evaluación de su rendimiento.
+- End_to_End.ipynb: un cuaderno de Jupyter que contiene el código para la exploración de datos, entrenamiento del modelo y evaluación de su rendimiento. Se puede acceder al cuaderno en una versión de colab con el siguiente [enlace a colab](https://colab.research.google.com/drive/1q6PG_T4YMy1sKQe70Lghm7mfFfiYRpLa?usp=sharing).
 
 - housing.csv: el conjunto de datos de viviendas de California utilizado para el entrenamiento del modelo.
 
 - forest_reg.pkl: un archivo pickle que contiene el modelo de aprendizaje automático entrenado.
 
-- README.md: un archivo de texto que contiene información sobre el proyecto.
+- [Enlace a Streamlit](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/).
 
-- [Enlace a Streamlit](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/)
+- README.md: un archivo de texto que contiene información sobre el proyecto.
 
 Para utilizar el modelo entrenado, se debe entrar al siguiente [enlace](https://josecchaparro-housing-data-science-main-hmf0p4.streamlit.app/) en el cual se
 realizó el despliegue del modelo, en esta página se podrán ingresar los datos de entrada para hacer una predicción con el modelo. A continuación, una muestra de como luce la página del enlace:
