@@ -80,14 +80,14 @@ import pandas as pd
 st.title('''Housing Price Prediction App''')
 st.markdown("""## This app predicts the **Housing Price**!""")
 
-median_income = st.text_input('Ingresar el ingreso medio', value=1)
-total_rooms = st.text_input('Ingresar el total de habitaciones', value=1)
-housing_median_age = st.text_input('Ingresar la edad media de las viviendas', value=1)
-households =  st.text_input('Ingresar el total de hogares', value=1)
-total_bedrooms = st.text_input('Ingresar el total de cuartos', value=1)
-population = st.text_input('Ingresar la población total', value=1)
-longitude = st.text_input('Ingresar la longitud', value=1)
-latitude = st.text_input('Ingresar la latitud', value=1)
+median_income = st.number_input('Ingresar el ingreso medio', min_value=1)
+total_rooms = st.number_input('Ingresar el total de habitaciones', min_value=1)
+housing_median_age = st.number_input('Ingresar la edad media de las viviendas', min_value=1)
+households =  st.number_input('Ingresar el total de hogares', min_value=1)
+total_bedrooms = st.number_input('Ingresar el total de cuartos', min_value=1)
+population = st.number_input('Ingresar la población total', min_value=1)
+longitude = st.number_input('Ingresar la longitud')
+latitude = st.number_input('Ingresar la latitud')
 ocean_proximity = st.selectbox('Proximidad al océano', housing['ocean_proximity'].unique())
 
 import joblib
