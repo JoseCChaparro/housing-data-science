@@ -1,5 +1,6 @@
 # End-to-end project
-## José Carlos Chaparro Morales - 329613
+## UACH - INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN 
+### José Carlos Chaparro Morales - 329613
 
 Repositoprio del programa de predicción en base al dataset de Housing California
 
