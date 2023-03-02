@@ -78,7 +78,7 @@ import pandas as pd
 
 # Definir la interfaz de usuario en Streamlit
 st.title('''Housing Price Prediction App''')
-st.markdown("""## This app predicts the **Housing Price**!""")
+st.markdown("""## José Carlos Chaparro Morales""")
 
 median_income = st.number_input('Ingresar el ingreso medio', min_value=1)
 total_rooms = st.number_input('Ingresar el total de habitaciones', min_value=1)
